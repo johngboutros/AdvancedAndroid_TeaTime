@@ -20,7 +20,7 @@ android {
 }
 
 dependencies {
-    //TODO (9) Add espresso idling resource gradle dependency
+    //DONE (9) Add espresso idling resource gradle dependency
     implementation 'com.android.support:design:27.1.1'
     implementation 'com.android.support:support-annotations:27.1.1'
     implementation 'com.google.firebase:firebase-appindexing:15.0.0'
